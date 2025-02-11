@@ -33,7 +33,7 @@
     "appsflyer_dev_key": ""
   },
   "style": {
-    "base_color": "#d9332e",
+    "base_color": "#0101fd",
     "corners_type": "round",
     "icons_type": "tint",
     "palette": "lab",
@@ -81,18 +81,19 @@
         "type": "other",
         "parameters": {
           "id": "Other1",
+          "icon": "ic_other_1",
           "title": {
             "base": "en",
             "localized": {
-              "en": "Other",
-              "ru": "Другое"
+              "en": "Tours",
+              "ru": "Туры"
             }
           },
           "url": {
             "base": "en",
             "localized": {
-              "en": "https://www.google.com",
-              "ru": "https://www.google.ru"
+              "en": "https://yandex.tp.st/QvdKMr7D",
+              "ru": "https://yandex.tp.st/QvdKMr7D"
             }
           }
         }
@@ -101,18 +102,19 @@
         "type": "other",
         "parameters": {
           "id": "Other2",
+          "icon": "ic_other_2",
           "title": {
             "base": "en",
             "localized": {
-              "en": "Other2",
-              "ru": "Другое2"
+              "en": "Insurance",
+              "ru": "Страховка"
             }
           },
           "url": {
             "base": "en",
             "localized": {
-              "en": "https://www.google.com",
-              "ru": "https://www.google.ru"
+              "en": "https://cherehapa.tp.st/R5Tpg6RM",
+              "ru": "https://cherehapa.tp.st/R5Tpg6RM"
             }
           }
         }
