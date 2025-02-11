@@ -8,7 +8,7 @@ import com.android.builder.model.ApiVersion
  */
 object Config {
 
-    val APPLICATION_ID = ApplicationVersions.APPLICATION_ID
+    val APPLICATION_ID = "ru.aviabilety.deshevo" //ApplicationVersions.APPLICATION_ID
 
     val VERSION_CODE = ApplicationVersions.APP_VERSION_CODE
 

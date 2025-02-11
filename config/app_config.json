@@ -2,29 +2,15 @@
   "base_configuration": {
     "identifier": {
       "android": {
-        "id": "",
-        "versionCode": 1
-        "versionName": "1.3.3",
-      },
-      "apple": {
-        "id": "",
-        "team_id": ""
+        "id": "ru.aviabilety.deshevo",
+        "versionCode": 4,
+        "versionName": "1.4"
       }
     },
     "display_name": {
       "base": "en",
       "localized": {
         "en": "whitelabel"
-      }
-    },
-    "advertising": {
-      "appodeal_api_key": "",
-      "google_admob_app_id": "",
-      "placements": {
-        "air_ticket_placement_interstitial": "",
-        "air_ticket_placement_banner": "",
-        "hotels_placement_interstitial": "",
-        "hotels_placement_banner": ""
       }
     }
   },
@@ -36,13 +22,13 @@
         "ru": "https://www.google.ru"
       }
     },
-    "feedback_email": "test@test.com",
+    "feedback_email": "support@mobile-testing.ru",
     "google_maps_api_key": "",
     "appstore_id": "",
-    "marker": 0,
-    "client_device_host": "",
+    "marker": 154286,
+    "client_device_host": "android.ru.aviabilety.deshevo",
     "host": "",
-    "api_key": "",
+    "api_key": "40aa1345ae7f6e55e72568b27207f3e2",
     "sharing_data": {
       "sharing_link": "",
       "handling_link": ""
@@ -69,13 +55,13 @@
         "base": "en",
         "localized": {
           "en": "Application description",
-          "ru": "Описание приложения"
+          "ru": "В нашем приложении вы найдете билеты по низким ценам в любую точку России и СНГ. Авиабилеты в Таджикистан, в Узбекистан и на другие направления дешево от ведущих авиакомпаний!"
         }
       },
       "developer": {
         "base": "en",
         "localized": {
-          "en": "CleverPumpkin Ltd."
+          "en": "Авиабилеты Дешево"
         }
       },
       "partner_url": {
