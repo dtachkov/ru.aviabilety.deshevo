@@ -33,7 +33,9 @@ object LabColorsHandler {
         overriddenColors: Map<String, String>
     ) {
         print("Generating colors.xml... ")
+        print("BaseColor = {$baseColorString}" )
         val baseColor = RGB(baseColorString)
+
 
         val currentColors = overriddenColors.toMutableMap()
 

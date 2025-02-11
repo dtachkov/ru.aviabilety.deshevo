@@ -110,7 +110,7 @@
     <!-- region Flights SDK -->
 
     <!-- MainFlightsFragment -->
-    <string name="ta_search_title">Поиск недорогих авиабилетов</string>
+    <string name="ta_search_title">Поиск дешевых авиабилетов</string>
     <string name="ta_search_departure">Откуда</string>
     <string name="ta_search_arrival">Куда</string>
     <string name="ta_search_departure_date">Когда</string>
@@ -386,7 +386,7 @@
     <!-- region Hotels SDK -->
 
     <!--  SearchHotelsFragment  -->
-    <string name="ta_hotels_search_title">Поиск интересных отелей</string>
+    <string name="ta_hotels_search_title">Поиск отеля где остановиться</string>
     <string name="ta_hotels_search_city_or_hotel">Город или отель</string>
     <string name="ta_hotels_search_period_dates">%1$s – %2$s</string>
     <string name="ta_hotels_search_button">Найти</string>

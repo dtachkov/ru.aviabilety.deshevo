@@ -12,15 +12,29 @@ import com.travelapp.sdk.config.EnabledInfoItems
 import com.travelapp.sdk.config.IconsType
 import com.travelapp.sdk.config.SdkConfig
 import com.travelapp.sdk.config.TravelSdk
+import io.appmetrica.analytics.AppMetrica
+import io.appmetrica.analytics.AppMetricaConfig
 import timber.log.Timber
 
+
+
 open class TravelApp : Application() {
+
+    private  fun initYandexSDK(){
+        val API_KEY= "be922eed-b08a-46ea-bf0c-ec6c8c167a14"
+        // Creating an extended library configuration.
+
+        val config = AppMetricaConfig.newConfigBuilder(API_KEY).build()
+        // Initializing the AppMetrica SDK.
+        AppMetrica.activate(this, config)
+    }
 
     override fun onCreate() {
         super.onCreate()
         createNotificationChannel()
         initTimber()
         initTravelSdk()
+        initYandexSDK()
     }
 
     private fun initTravelSdk() {

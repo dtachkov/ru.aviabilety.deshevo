@@ -41,7 +41,7 @@ object WhiteLabelConf {
     
     object InfoConfig {
         val enabledItems: Set<EnabledInfoItems> = setOf<EnabledInfoItems?>(
-            EnabledInfoItems.getByName("О приложении"), EnabledInfoItems.getByName("Оценить приложение"), EnabledInfoItems.getByName("Поделиться приложением")
+            EnabledInfoItems.getByName("favorites"), EnabledInfoItems.getByName("about_app"), EnabledInfoItems.getByName("rate_app"), EnabledInfoItems.getByName("share_app")
         ).filterNotNull().toSet()
     }
 

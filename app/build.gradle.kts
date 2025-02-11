@@ -160,6 +160,9 @@ dependencies {
     // AppsFlyer
     implementation(AppsFlyer.LIBRARY)
 
+    //   Добавил вручную чтоб работала метрика
+    implementation("io.appmetrica.analytics:analytics:7.6.0")
+
 }
 
 //evaluationDependsOn(BuildModules.Config.LIBRARY)
@@ -199,6 +202,9 @@ private fun DependencyHandlerScope.appodealNetworkWithoutAdmob() {
     implementation(Tools.APPODEAL_MY_TARGET) {
         exclude("com.android.billingclient", "billing")
     }
+
+
+
     implementation(Tools.APPODEAL_PANGLE)
     implementation(Tools.APPODEAL_UNITY_ADS)
     implementation(Tools.APPODEAL_VUNGLE)

@@ -12,6 +12,7 @@ allprojects {
         maven("https://jitpack.io")
         // Add Appodeal repository
         maven("https://artifactory.appodeal.com/appodeal")
+        maven ("https://mvnrepository.com") // ADDED THIS
     }
 }
 

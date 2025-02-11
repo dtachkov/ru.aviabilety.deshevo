@@ -33,19 +33,19 @@
     "appsflyer_dev_key": ""
   },
   "style": {
-    "base_color": "#0101fd",
+    "base_color": "#0101FD",
     "corners_type": "round",
     "icons_type": "tint",
-    "palette": "lab",
+    "palette": "hsv",
     "overridden_color": {
-
     }
   },
   "info_screen_config": {
     "items_to_display": [
-      "О приложении",
-      "Оценить приложение",
-      "Поделиться приложением"
+      "favorites",
+      "about_app",
+      "rate_app",
+      "share_app"
     ],
     "about_app_info": {
       "description": {

@@ -26,7 +26,6 @@ dependencies {
     implementation("com.google.firebase:firebase-crashlytics-gradle:${PluginsVersions.FIREBASE_CRASHLYTICS_PLUGIN}")
     implementation("com.google.gms:google-services:${PluginsVersions.GOOGLE_SERVICES_PLUGIN}")
     implementation("androidx.navigation:navigation-safe-args-gradle-plugin:${PluginsVersions.NAV_VERSION}")
-//    implementation("com.travelapp.gradle:colorsgenerator:1.0.0")
 
     
     implementation("com.google.code.gson:gson:2.10.1")
