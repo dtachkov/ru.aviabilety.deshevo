@@ -1,4 +1,4 @@
-package com.travelapp
+package ru.aviabilety.deshevo
 
 import android.content.Intent
 import android.os.Bundle

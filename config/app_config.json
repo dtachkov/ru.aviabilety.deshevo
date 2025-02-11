@@ -8,9 +8,10 @@
       }
     },
     "display_name": {
-      "base": "en",
+      "base": "ru",
       "localized": {
-        "en": "whitelabel"
+        "ru": "Авиабилеты",
+        "en": "AirTickets"
       }
     }
   },
@@ -18,21 +19,17 @@
     "policy_url": {
       "base": "en",
       "localized": {
-        "en": "https://www.google.com",
-        "ru": "https://www.google.ru"
+        "en": "https://mobile-testing.ru/privacy-policy-dlya-prilozheniya-aviabiletyi-v-ayzerbayzhan/",
+        "ru": "https://mobile-testing.ru/privacy-policy-dlya-prilozheniya-aviabiletyi-v-ayzerbayzhan/"
       }
     },
     "feedback_email": "support@mobile-testing.ru",
-    "google_maps_api_key": "",
+    "google_maps_api_key": "AIzaSyBjNiUE_Nr74E6e7M6qx03zSQkD_BdPjNg",
     "appstore_id": "",
     "marker": 154286,
     "client_device_host": "android.ru.aviabilety.deshevo",
     "host": "",
     "api_key": "40aa1345ae7f6e55e72568b27207f3e2",
-    "sharing_data": {
-      "sharing_link": "",
-      "handling_link": ""
-    },
     "appsflyer_dev_key": ""
   },
   "style": {
@@ -46,15 +43,15 @@
   },
   "info_screen_config": {
     "items_to_display": [
-      "about_app",
-      "rate_app",
-      "share_app"
+      "О приложении",
+      "Оценить приложение",
+      "Поделиться приложением"
     ],
     "about_app_info": {
       "description": {
-        "base": "en",
+        "base": "ru",
         "localized": {
-          "en": "Application description",
+          "en": "In our application you will find tickets at low prices to anywhere in Russia and CIS. Cheap air tickets to Tajikistan, Uzbekistan and other destinations from leading airlines!",
           "ru": "В нашем приложении вы найдете билеты по низким ценам в любую точку России и СНГ. Авиабилеты в Таджикистан, в Узбекистан и на другие направления дешево от ведущих авиакомпаний!"
         }
       },

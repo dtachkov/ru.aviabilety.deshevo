@@ -12,17 +12,17 @@ object WhiteLabelConf {
 
     const val host: String = ""
     
-    const val apiKey: String = ""
+    const val apiKey: String = "40aa1345ae7f6e55e72568b27207f3e2"
 
-    const val email: String = "test@test.com"
+    const val email: String = "support@mobile-testing.ru"
 
-    const val appVerison: String = "1.3.3"
+    const val appVerison: String = "1.4"
 
-    const val appId: String = ""
+    const val appId: String = "ru.aviabilety.deshevo"
     
-    val marker: Int = 0
+    val marker: Int = 154286
     
-    val clientDeviceHost: String = ""
+    val clientDeviceHost: String = "android.ru.aviabilety.deshevo"
 
     val flightsTabEnabled: Boolean = true
     
@@ -41,7 +41,7 @@ object WhiteLabelConf {
     
     object InfoConfig {
         val enabledItems: Set<EnabledInfoItems> = setOf<EnabledInfoItems?>(
-            EnabledInfoItems.getByName("about_app"), EnabledInfoItems.getByName("rate_app"), EnabledInfoItems.getByName("share_app")
+            EnabledInfoItems.getByName("О приложении"), EnabledInfoItems.getByName("Оценить приложение"), EnabledInfoItems.getByName("Поделиться приложением")
         ).filterNotNull().toSet()
     }
 

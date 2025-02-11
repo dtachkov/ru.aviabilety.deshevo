@@ -155,7 +155,7 @@ dependencies {
     implementation(Tools.GSON)
     implementation(Tools.SEISMIC)
 
-    implementation(Tools.APPODEAL) { exclude("com.android.billingclient", "billing") }
+    implementation(Tools.APPODEAL_CORE)
 
     // AppsFlyer
     implementation(AppsFlyer.LIBRARY)
