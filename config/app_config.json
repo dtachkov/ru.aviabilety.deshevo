@@ -2,7 +2,7 @@
   "base_configuration": {
     "identifier": {
       "android": {
-        "id": "ru.aviabilety.deshevo",
+        "id": "cheap.airtickets.uzbekistan",
         "versionCode": 5,
         "versionName": "1.5"
       }
@@ -27,7 +27,7 @@
     "google_maps_api_key": "AIzaSyBjNiUE_Nr74E6e7M6qx03zSQkD_BdPjNg",
     "appstore_id": "",
     "marker": 154286,
-    "client_device_host": "android.ru.aviabilety.deshevo",
+    "client_device_host": "android.cheap.airtickets.uzbekistan",
     "host": "",
     "api_key": "40aa1345ae7f6e55e72568b27207f3e2",
     "appsflyer_dev_key": ""
@@ -51,14 +51,15 @@
       "description": {
         "base": "ru",
         "localized": {
-          "en": "In our application you will find tickets at low prices to anywhere in Russia and CIS. Cheap air tickets to Tajikistan, Uzbekistan and other destinations from leading airlines!",
-          "ru": "В нашем приложении вы найдете билеты по низким ценам в любую точку России и СНГ. Авиабилеты в Таджикистан, в Узбекистан и на другие направления дешево от ведущих авиакомпаний!"
+          "en": "In our application you will find tickets at low prices to anywhere in Uzbekistan and CIS. Cheap air tickets to Tajikistan, Uzbekistan and other destinations from leading airlines!",
+          "ru": "В нашем приложении вы найдете билеты по низким ценам в Узбекистан и обратно. Также можно купить билеты по всей России и в любую страну СНГ"
         }
       },
       "developer": {
         "base": "en",
         "localized": {
-          "en": "Авиабилеты Дешево"
+          "en": "Авиабилеты Узбекистан",
+          "ru": "Авиабилеты Узбекистан"
         }
       },
       "partner_url": {
