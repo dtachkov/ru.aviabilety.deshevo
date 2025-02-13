@@ -31,6 +31,9 @@ object AppVersionHandler {
         val regexId = "applicationId=[0-9A-Za-z.]*".toRegex()
         val regexVersion = "version=[0-9A-Za-z.]*".toRegex()
         val regexVersionCode = "versionCode=[0-9A-Za-z.]*".toRegex()
+
+        print("found version code {$versionCode} ")
+
         val editedText = text
             .replace(regexId, APPLICATION_ID + applicationId)
             .replace(regexVersion, VERSION + versionName)

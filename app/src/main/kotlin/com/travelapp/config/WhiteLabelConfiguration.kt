@@ -16,7 +16,7 @@ object WhiteLabelConf {
 
     const val email: String = "support@mobile-testing.ru"
 
-    const val appVerison: String = "1.4"
+    const val appVerison: String = "1.5"
 
     const val appId: String = "ru.aviabilety.deshevo"
     
