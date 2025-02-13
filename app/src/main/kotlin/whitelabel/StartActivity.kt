@@ -1,4 +1,4 @@
-package ru.aviabilety.deshevo
+package cheap.airtickets.uzbekistan
 
 import android.content.Intent
 import android.os.Bundle

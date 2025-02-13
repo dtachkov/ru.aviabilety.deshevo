@@ -8,9 +8,96 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:384809534488:android:4bdd357e55a06d1e31ef6d",
+        "android_client_info": {
+          "package_name": "cheap.airtickets.uzbekistan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384809534488-rhgdih17696mkq5ajed4e4th543er7vn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcI8OXN0AQg45lT-kre6rRZFIZDlVez_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384809534488-rhgdih17696mkq5ajed4e4th543er7vn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384809534488:android:d331889a16a6b49b31ef6d",
+        "android_client_info": {
+          "package_name": "cheap.airtickets.uzbekistan.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384809534488-rhgdih17696mkq5ajed4e4th543er7vn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcI8OXN0AQg45lT-kre6rRZFIZDlVez_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384809534488-rhgdih17696mkq5ajed4e4th543er7vn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:384809534488:android:b765b6e779a488ae31ef6d",
         "android_client_info": {
           "package_name": "ru.aviabilety.deshevo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384809534488-rhgdih17696mkq5ajed4e4th543er7vn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcI8OXN0AQg45lT-kre6rRZFIZDlVez_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384809534488-rhgdih17696mkq5ajed4e4th543er7vn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384809534488:android:33019bb5c9bfceab31ef6d",
+        "android_client_info": {
+          "package_name": "ru.aviabilety.deshevo.debug"
         }
       },
       "oauth_client": [

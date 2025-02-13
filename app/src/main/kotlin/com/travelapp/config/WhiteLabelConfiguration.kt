@@ -16,13 +16,13 @@ object WhiteLabelConf {
 
     const val email: String = "support@mobile-testing.ru"
 
-    const val appVerison: String = "1.5"
+    const val appVerison: String = "1.2"
 
-    const val appId: String = "ru.aviabilety.deshevo"
+    const val appId: String = "cheap.airtickets.uzbekistan"
     
     val marker: Int = 154286
     
-    val clientDeviceHost: String = "android.ru.aviabilety.deshevo"
+    val clientDeviceHost: String = "android.cheap.airtickets.uzbekistan"
 
     val flightsTabEnabled: Boolean = true
     
